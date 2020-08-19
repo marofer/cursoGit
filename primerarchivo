@@ -2,3 +2,11 @@ primera clase de git
 
 git init para empezar.
 git status para ver el estado de git.
+git add y nombre del archivo para agregar el archivo al stage area.
+git config --local user.name "nombre" esto es valido para el repositorio donde estoy trabajando.
+git config --local user.email "nombre@.....com"
+git commit -m "dejamos el comentario"
+git log para ver el hash del commit.
+git log --oneline me da la infomracion necesaria que preciso.
+git checkout nos movemos atraves de commmits o branchs, volvemos a la version anterior del proyecto
+
